@@ -1,9 +1,23 @@
 body{
     background-color: rgb(202, 237, 241);
 }
-.h1{
+h1{
     text-align: center;
-    font-size: 15px;
+    font-size: 40px;
+
 }
+.container{
+    display: flex;
+    justify-content: space-between;
+}
+.box{
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    background-color: blue;
+}
+
+
+
 
 
